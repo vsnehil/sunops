@@ -1,0 +1,66 @@
+#second_question{
+  display:none;
+}
+
+
+#full_address{
+  color:black;
+}
+
+#location_panel{
+
+}
+
+#rooftop_area{
+  display:none;
+}
+
+#electicity_cost{
+  display: none;
+}
+
+#calculation_result{
+  display: none;
+}
+
+#fetched_coordinate{
+  display: none;
+}
+
+#fetched_coordinate tr,td{
+  padding:5px;
+}
+
+#fetched_coordinate table{
+  width:500px;
+  margin: auto;
+}
+
+#enter_coordinate tr,td{
+  padding:5px;
+}
+
+#enter_coordinate table{
+  width:500px;
+  margin: auto;
+}
+
+#enter_long{
+  color:black;
+}
+
+#enter_lat{
+  color:black;
+}
+
+#third_question{
+  display: none;
+}
+
+#selected_area{
+  color:black;
+}
+
+#selected_cost{
+  color:black;
+}
